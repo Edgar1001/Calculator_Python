@@ -1,5 +1,7 @@
 from tkinter import*
 
+#This is a calculator made in Python -Edgar-
+
 me=Tk()
 me.geometry("354x460")
 me.title("CALCULATOR")
