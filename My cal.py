@@ -1,6 +1,7 @@
 from tkinter import*
 
-#This is a calculator made in Python -Edgar-
+# This is a calculator made in Python -Edgar-
+# Release 1.0
 
 me=Tk()
 me.geometry("354x460")
@@ -96,5 +97,10 @@ butclear.place(x=270,y=100)
 butequal=Button(me,padx=151,pady=14,bd=4,bg='white',command=equlbut,text="=",font=("Courier New",16,'bold'))
 butequal.place(x=10,y=380)
 me.mainloop()
+
+
+#This new update will check how building process is made within Jenkins for CI/CD.
+#Checking funcionalities with Maven, Nexus and Ansible.
+
 
 
