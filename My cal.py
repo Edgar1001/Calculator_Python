@@ -2,6 +2,7 @@ from tkinter import*
 
 # This is a calculator made in Python -Edgar-
 # Release 1.0
+# Maven built - Publishing Nexus
 
 me=Tk()
 me.geometry("354x460")
